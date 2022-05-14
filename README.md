@@ -48,7 +48,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 𝙈𝙚𝙩𝙝𝙤𝙙 - 1 : ᴠɪᴀ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴏɴ𝙨
 
-[![Deploy](https://www.heroku.com/deploy)](Heroku_Deployment.md)
+[![Deploy](https://www.heroku.com/deploy)](https://www.heroku.com/deploy)
 
 
 
